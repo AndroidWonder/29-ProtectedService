@@ -21,10 +21,6 @@
         
          <service android:name="TorpedoService" android:permission="com.course.permission.CS480"
             android:exported="true" android:enabled="true">
-             <intent-filter>
-                <action android:name="com.course.event.serviceevent" />
-              
-            </intent-filter>
         </service>
         
         
