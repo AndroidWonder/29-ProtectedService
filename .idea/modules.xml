@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/29-ProtectedService.iml" filepath="$PROJECT_DIR$/29-ProtectedService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29-ProtectedService.iml" filepath="$PROJECT_DIR$/29-ProtectedService.iml" group="29-ProtectedService" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="29-ProtectedService/app" />
     </modules>
   </component>
 </project>
