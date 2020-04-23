@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.course.example.protectedservice"
-        minSdkVersion 25
+        minSdkVersion 26
         targetSdkVersion 26
     }
 
